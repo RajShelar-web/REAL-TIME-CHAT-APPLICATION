@@ -56,6 +56,10 @@ Socket.io
 
 Node Package Manager (npm)
 
+##OUTPUT :
+
+<img width="953" height="340" alt="Image" src="https://github.com/user-attachments/assets/7b7b9ea3-70b4-4a8b-8708-5891ce0f0c41" />
+
 WebSockets (via Socket.io)
 
 REST & Event-based communication
